@@ -280,13 +280,6 @@ Authorization: Bearer <JWT_TOKEN>
 
 ---
 
-## Postman Documentation
-
-Postman Collection URL:
-
-```text
-Add your Postman Documentation URL here
-```
 
 ---
 
