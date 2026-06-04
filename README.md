@@ -280,7 +280,13 @@ Authorization: Bearer <JWT_TOKEN>
 
 ---
 
+## Postman Documentation
 
+Postman Collection URL:
+
+```text
+https://documenter.getpostman.com/view/47652039/2sBXwpNr98
+```
 ---
 
 ## Author
